@@ -1,0 +1,76 @@
+.button{
+	font-family: "微軟正黑體";
+	display: inline-block;
+	cursor: pointer;
+	text-align: center;
+	text-decoration: none;
+	height:10px;
+	outline: none;
+	color: black;
+	background-color:#FFCCCC;
+	border: none;
+	border-radius: 15px;
+}
+#team{
+	width:1200px;
+	margin:50px auto;
+
+	}
+#team div{
+	width:19%;
+	border:1px solid #333;
+	height: 550px;
+	float: left;
+	margin:20px 20px 20px 0px;
+	padding: 20px;
+
+}
+#pic{
+	width:100%;
+	border: 1px solid #EEE;
+	border-radius: 120px;
+
+}
+#team div h3{
+	text-align: center;
+
+}
+#form1{
+	margin:30px;
+	clear: both;
+	text-align: center;
+
+	
+
+}
+#form1 a{
+display: inline-block;
+	width: 100px;
+	background-color:#336;
+	padding: 10px 15px;
+	text-align: center;
+	border:1px solid #123;
+
+}
+#form1 a:link,#form1 a:visited{
+	text-decoration: none;
+	color: #CCC;
+
+
+}
+#form1 a:hover{
+	background-color: #CCC;
+	color: #336;
+
+}
+.footer{
+	display: block;
+	clear:both;
+	padding: 5px;
+	text-align: center;
+	line-height: 150%;
+}
+#fb{
+	width:20%;
+	border-radius: 60px;
+}

@@ -1,0 +1,33 @@
+.button{
+font-family: "微軟正黑體";
+display: inline-block;
+cursor: pointer;
+text-align: center;
+text-decoration: none;
+height:10px;
+outline: none;
+color: black;
+background-color:#FFCCCC;
+border: none;
+border-radius: 15px;
+}
+#Video{
+width:920px;
+margin: auto;
+text-align: center;
+overflow:hidden;
+}
+.text{
+font-family: "微軟正黑體";
+color:#933;
+font-size: 18px;
+font-weight: 800;
+
+}
+.footer{
+	display: block;
+	clear:both;
+	padding: 5px;
+	text-align: center;
+	line-height: 150%;
+}
