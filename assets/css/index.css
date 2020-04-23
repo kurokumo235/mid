@@ -19,19 +19,18 @@
 	text-align: center;
 	line-height: 150%;
 }
-div.pic{	
-	float: left;
-}
 div.pic1 img{
+	float: left;
 	position: relative;
-    left: 100px;
+    left: 5%;
+    margin:50px auto;
     transform:scale(1,1);transition: all 1s ease-out;
 }
 div.pic2 img{
 	position: relative;
-    left: 200px;
+    left: 12%;
+    margin:50px auto;
     transform:scale(1,1);transition: all 1s ease-out;
 }
 .pic2 img:hover{transform:scale(1.2,1.2);}
 .pic1 img:hover{transform:scale(1.2,1.2);}
-
